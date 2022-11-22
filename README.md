@@ -1,2 +1,3 @@
 # Lego Spike Prime
-Fun programming exercises in Python
+Sjove programmeringsøvelser i Python  
+Brugt i Coding Pirates
